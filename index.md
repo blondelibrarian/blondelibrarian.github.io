@@ -9,3 +9,5 @@ Go to [CNM Libraries' Mobile Site](https://subjectguides.cnm.edu/mobile-library)
 - [Request printing services at Main Campus](https://www.registerblast.com/cnmcc-sv/Exam/List)
 - [Request document scanning, copying, or faxing at Westside Campus](https://www.registerblast.com/cnmcc-rr/Exam/List)
 - [Learn more about remote access to Textbooks on Reserve](https://subjectguides.cnm.edu/services/reserves)
+
+![Digital Students](/Digital-student.jpg)
