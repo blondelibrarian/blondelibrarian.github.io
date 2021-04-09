@@ -11,3 +11,12 @@ Go to [CNM Libraries' Mobile Site](https://subjectguides.cnm.edu/mobile-library)
 - [Learn more about remote access to Textbooks on Reserve](https://subjectguides.cnm.edu/services/reserves)
 
 ![Digital Students](/Digital-student.jpg)
+
+### Resources
+[eResources and Databases](https://subjectguides.cnm.edu/az.php) | [Journals A-Z](https://cnm.on.worldcat.org/atoztitles#journals)
+
+### Services
+[User Services](https://subjectguides.cnm.edu/services) | [Faculty Services](https://subjectguides.cnm.edu/faculty)
+
+### Help
+[Get Help](https://subjectguides.cnm.edu/chat) | [FAQs](https://cnm.libanswers.com/) | [ADA/Accessibility](https://subjectguides.cnm.edu/ada)
