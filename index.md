@@ -1,29 +1,15 @@
 # CNM Libraries
 
-Go to [CNM Libraries' Mobile Site] (https://subjectguides.cnm.edu/mobile-library)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Go to [CNM Libraries' Mobile Site](https://subjectguides.cnm.edu/mobile-library)
 
 ```markdown
-Syntax highlighted code block
+### CNM Libraries is now offering in-person services at Main and Westside Campuses for registered CNM students, faculty, or staff by appointment only.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- [Place books, DVDs, or audiobooks on hold for in-person check out](https://subjectguides.cnm.edu/worldcat_discovery/holds)
+- [Request equipment for in-person check out](https://cnm.libwizard.com/f/equipment)
+- [Request printing services at Main Campus](https://www.registerblast.com/cnmcc-sv/Exam/List)
+- [Request document scanning, copying, or faxing at Westside Campus](https://www.registerblast.com/cnmcc-rr/Exam/List)
+- [Learn more about remote access to Textbooks on Reserve](https://subjectguides.cnm.edu/services/reserves)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
