@@ -11,5 +11,3 @@ Go to [CNM Libraries' Mobile Site](https://subjectguides.cnm.edu/mobile-library)
 - [Learn more about remote access to Textbooks on Reserve](https://subjectguides.cnm.edu/services/reserves)
 
 ![Digital Students](/Digital-student.jpg)
-
-[Search CNM Libraries](https://github.com/blondelibrarian/blondelibrarian.github.io/blob/0c376294f00fb04caaf5f35f8eb525ec9d6a448d/Mobile%20Search%20Box.html)
